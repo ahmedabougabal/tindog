@@ -1,0 +1,206 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.meet {
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.h22 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Ubuntu';
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.iphone {
+  transform: rotate(25deg);
+  width: 60%;
+
+
+
+
+
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+}
+
+#features {
+  padding: 8% 5% 8% 5%;
+
+
+
+
+
+}
+
+.row {
+  text-align: center;
+}
+
+
+
+.icons {
+  font-size: 3rem;
+  padding-bottom: 20px;
+  color: #ef8172;
+}
+
+.middle {
+  font-family: 'Ubuntu';
+  color: #8f8f8f;
+  font-weight: lighter;
+}
+
+.circle:hover {
+  color: #ff4c68;
+}
+
+.bull:hover {
+  color: #ff4c68;
+}
+
+.heart:hover {
+  color: #ff4c68;
+}
+
+.carousel-photos {
+  border-radius: 100%;
+  width:12%;
+  margin:20px;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+
+
+}
+.logos{
+  width:15%;
+  margin:auto 60px;
+
+
+
+
+
+}
+
+.last-btn{
+  padding:6px;
+
+}
+
+.last-pricetable{
+  line-height: 0.9;
+}
+
+
+#pricing{
+  padding:100px;
+
+}
+
+.pricing-card{
+  padding:3% 2%;
+}
+
+
+.card-header{
+  font-family: 'Montserrat';
+}
+
+@media (max-width:991px){
+  .iphone{
+    position: static;
+    transform: rotate(0deg);
+
+
+  }
+  .middle-2{
+    padding-bottom: 35px;
+
+  }
+}
+
+
+
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.pricing-para{
+  font-family: 'Ubuntu';
+  text-align: center;
+  padding-top: 15px;
+
+}
+
+#footer{
+  background-color: #fff;
+  padding:50px;
+  text-align: center;
+
+}
+.footer-icons{
+  padding-bottom: 25px;
+  padding-left: 55px;
+
+
+
+
+
+}
